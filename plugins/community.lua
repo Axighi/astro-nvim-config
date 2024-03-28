@@ -13,4 +13,5 @@ return {
   { import = "astrocommunity.pack.tailwindcss"},
   { import = "astrocommunity.pack.prisma"},
   { import = "astrocommunity.pack.yaml"},
+  { import = "astrocommunity.pack.lua"},
 }
